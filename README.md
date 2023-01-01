@@ -1,6 +1,6 @@
 |Port-Scanner|
 |---|
-     
+      
 Scan your Network for Open and Closed Ports. Fix Errors in the Network Infrastructure
 |Screenshots "NEW" v.1.3 - v.1.1|
 |---|
