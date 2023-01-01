@@ -12,7 +12,7 @@ Scan your Network for Open and Closed Ports. Fix Errors in the Network Infrastru
 ![v 1 2](https://user-images.githubusercontent.com/109308073/198869209-ef5a74ec-cc89-47eb-80ac-80e08d7163da.jpg) 
 |v.1.2|
 |---|
----     
+---      
 ![v 1 1](https://user-images.githubusercontent.com/109308073/198869207-1ab83a36-1132-46a8-a155-80c6b827eeb3.jpg) 
 |v.1.1|
 |---|
